@@ -929,6 +929,13 @@
   events: Restricted
   last_update: 2020-03-12
 
+- name: Ombud
+  wfh: Encouraged
+  travel: "?"
+  visitors: "?"
+  events: Restricted
+  last_update: 2020-03-12
+  
 - name: Opendoor
   wfh: Encouraged
   travel: "?"
